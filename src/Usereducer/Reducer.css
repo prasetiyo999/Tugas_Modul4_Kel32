@@ -1,0 +1,20 @@
+.countValue {
+    font-size: 64px;
+    font-weight: bold;
+    color: rgb(8, 189, 23);
+    margin: 30px 0;
+    display: flex;
+    flex-direction:row;
+    padding-left: 48%;   
+  }
+  
+  .btnWrapper {
+    width: 50%;
+    padding-left: 25%;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+  }
+
+
+  
